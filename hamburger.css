@@ -5,12 +5,12 @@
   
 }
 .sidbar{
-    border: 1px solid blue;
+   
     width: 300px;
 
 }
 .hamburger{
-    border: 1px solid black;
+    
     margin: 2px;
     position: relative;
     background-color: white;
@@ -32,6 +32,7 @@
     width: 100px;
     list-style-type: none;
     transform: translate(-1000px);
+    background-color: darkgray;
     text-decoration: underline double;
     text-decoration-color: rgb(86, 11, 155);
     transition: 0.255s;
